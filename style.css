@@ -1,0 +1,46 @@
+html,body{margin:10;padding:10;}
+body{
+    font-size: 12pt;
+    font-family: helvetica, arial, sans-serif;
+    background:#282839;
+    text-align: left;}
+    
+    
+#main {
+    background:#EEEEEE;
+    padding:10;
+    padding-left:30;
+    padding-right:30;
+    float:left;
+    
+}
+
+#updated {
+    font-size:1;
+    font-family: helvetica, arial, sans-serif;
+    color:#FFFFFF;
+    float:left;
+    
+}
+
+#my_photo {
+    width:150px;
+    height:150px;
+    padding:10;
+    float:right;
+}    
+
+.hidden {
+    display:none;
+}
+
+.visible {
+    display:block; 
+}
+
+.title {
+background:#B5B5C4;
+font-weight: bold;
+padding:5;
+padding-left:15;
+}
