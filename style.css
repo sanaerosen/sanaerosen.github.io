@@ -2,12 +2,12 @@ html,body{margin:10;padding:10;}
 body{
     font-size: 12pt;
     font-family: helvetica, arial, sans-serif;
-    background:#282839;
+    background:#282828;
     text-align: left;}
     
     
 #main {
-    background:#EEEEEE;
+    background:#FFFFFF;
     padding:10;
     padding-left:30;
     padding-right:30;
@@ -39,7 +39,7 @@ body{
 }
 
 .title {
-background:#B5B5C4;
+background:#B5B5B5;
 font-weight: bold;
 padding:5;
 padding-left:15;
