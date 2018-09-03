@@ -30,6 +30,11 @@ body{
     float:right;
 }    
 
+#borges {
+    width:363px;
+    height:224px;
+}
+
 .hidden {
     display:none;
 }
@@ -43,4 +48,26 @@ background:#B5B5B5;
 font-weight: bold;
 padding:5;
 padding-left:15;
+}
+
+.sidebar {
+background:#D5D5D5;
+padding:5;
+padding-left:15;
+}
+
+.dndh2 {
+background:#B5B5B5;
+font-weight: bold;
+padding:5;
+padding-left:15;
+}
+
+.imagecaption{
+    padding:10;
+    float:right;
+}
+.caption{
+    font-style:italic;
+    font-size:small;
 }
