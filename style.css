@@ -71,3 +71,15 @@ padding-left:15;
     font-style:italic;
     font-size:small;
 }
+
+.tab {
+    padding: 10 30 10 30;
+    font-style:italic;
+    margin-right: 15;
+    display: inline-block;
+    background:#E0E0E0;
+}
+
+.tab-primary {
+    background:#FFFFFF;
+}
