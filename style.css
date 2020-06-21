@@ -12,7 +12,10 @@ body{
     padding-left:30;
     padding-right:30;
     float:left;
+}
 
+.blog {
+  max-width:700px;
 }
 
 #updated {
