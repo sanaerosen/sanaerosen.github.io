@@ -15,7 +15,7 @@ body{
 }
 
 .blog {
-  max-width:700px;
+  max-width:1000px;
 }
 
 #updated {
@@ -74,6 +74,13 @@ padding-left:15;
 .dndh2 {
 background:#B5B5B5;
 font-weight: bold;
+padding:5;
+padding-left:15;
+}
+
+.dndh3 {
+font-style:italic;
+background:#B5B5B5;
 padding:5;
 padding-left:15;
 }
