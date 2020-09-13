@@ -118,6 +118,12 @@ padding-left:15;
     margin: 0px 0px 15px 15px;
 }
 
+.chart-image {
+    width:750px;
+    padding:5;
+    margin: 0px 0px 15px 15px;
+}
+
 .button {
     background-color:#282828;
     color:#FFFFFF;
