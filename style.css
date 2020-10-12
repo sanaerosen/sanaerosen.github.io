@@ -118,6 +118,18 @@ padding-left:15;
     margin: 0px 0px 15px 15px;
 }
 
+.hobby-photo-medium {
+    width:500px;
+    padding:5;
+    margin: 0px 0px 15px 15px;
+}
+
+.hobby-photo-large {
+    width:970px;
+    padding:5;
+    margin: 0px 0px 15px 15px;
+}
+
 .chart-image {
     width:750px;
     padding:5;
